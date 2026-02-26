@@ -1,6 +1,6 @@
 # Oracle Code Assist Provider for Copilot
 
-This extension registers [Oracle Code Assist]((https://www.oracle.com/application-development/code-assist/)) as a Copilot provider, enabling you to access and use Oracle Code Assist (OCA) models directly within VS Code Copilot Chat.
+This extension registers [Oracle Code Assist](https://www.oracle.com/application-development/code-assist/) as a Copilot provider, enabling you to access and use Oracle Code Assist (OCA) models directly within VS Code Copilot Chat.
 
 ## Features
 
